@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "JsonCoverter\\": "classes"
+        }
+    },
+  "require": {
+    "ext-json": "*"
+  },
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}

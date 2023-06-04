@@ -1,0 +1,9 @@
+**vendor/
+/.idea
+*.rar
+*.zip
+*.bak
+*.log
+*.tmp
+*.phar
+composer.lock
